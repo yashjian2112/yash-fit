@@ -1,0 +1,26 @@
+{
+  "name": "YASH.FIT — Personal Command Centre",
+  "short_name": "YASH.FIT",
+  "description": "Personal fitness dashboard — 8-month running and diet plan tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0b",
+  "theme_color": "#e8622a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness"],
+  "lang": "en-IN"
+}
